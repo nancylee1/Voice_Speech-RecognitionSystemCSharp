@@ -1,0 +1,24 @@
+C:\Users\nancy\Desktop\PROJECTS\SpeechRecognition\SpeechRecognition\obj\Debug\SpeechRecognition.csproj.AssemblyReference.cache
+C:\Users\nancy\Desktop\PROJECTS\SpeechRecognition\SpeechRecognition\obj\Debug\SpeechRecognition.csproj.SuggestedBindingRedirects.cache
+C:\Users\nancy\Desktop\PROJECTS\SpeechRecognition\SpeechRecognition\obj\Debug\SpeechRecognition.Properties.Resources.resources
+C:\Users\nancy\Desktop\PROJECTS\SpeechRecognition\SpeechRecognition\obj\Debug\SpeechRecognition.csproj.GenerateResource.cache
+C:\Users\nancy\Desktop\PROJECTS\SpeechRecognition\SpeechRecognition\obj\Debug\SpeechRecognition.csproj.CoreCompileInputs.cache
+C:\Users\nancy\Desktop\PROJECTS\SpeechRecognition\SpeechRecognition\bin\Debug\DefaultCommands.txt
+C:\Users\nancy\Desktop\PROJECTS\SpeechRecognition\SpeechRecognition\bin\Debug\SpeechRecognition.exe.config
+C:\Users\nancy\Desktop\PROJECTS\SpeechRecognition\SpeechRecognition\bin\Debug\SpeechRecognition.exe
+C:\Users\nancy\Desktop\PROJECTS\SpeechRecognition\SpeechRecognition\bin\Debug\SpeechRecognition.pdb
+C:\Users\nancy\Desktop\PROJECTS\SpeechRecognition\SpeechRecognition\obj\Debug\SpeechRecognition.exe
+C:\Users\nancy\Desktop\PROJECTS\SpeechRecognition\SpeechRecognition\obj\Debug\SpeechRecognition.pdb
+C:\Users\nancy\Desktop\PROJECTS\SpeechRecognition\SpeechRecognition\obj\Debug\SpeechRecognition.Form1.resources
+C:\Users\nancy\Desktop\PROJECTS\Speech Recognition CSharp WinForm.Net\SpeechRecognition\bin\Debug\DefaultCommands.txt
+C:\Users\nancy\Desktop\PROJECTS\Speech Recognition CSharp WinForm.Net\SpeechRecognition\bin\Debug\SpeechRecognition.exe.config
+C:\Users\nancy\Desktop\PROJECTS\Speech Recognition CSharp WinForm.Net\SpeechRecognition\bin\Debug\SpeechRecognition.exe
+C:\Users\nancy\Desktop\PROJECTS\Speech Recognition CSharp WinForm.Net\SpeechRecognition\bin\Debug\SpeechRecognition.pdb
+C:\Users\nancy\Desktop\PROJECTS\Speech Recognition CSharp WinForm.Net\SpeechRecognition\obj\Debug\SpeechRecognition.csproj.AssemblyReference.cache
+C:\Users\nancy\Desktop\PROJECTS\Speech Recognition CSharp WinForm.Net\SpeechRecognition\obj\Debug\SpeechRecognition.csproj.SuggestedBindingRedirects.cache
+C:\Users\nancy\Desktop\PROJECTS\Speech Recognition CSharp WinForm.Net\SpeechRecognition\obj\Debug\SpeechRecognition.Form1.resources
+C:\Users\nancy\Desktop\PROJECTS\Speech Recognition CSharp WinForm.Net\SpeechRecognition\obj\Debug\SpeechRecognition.Properties.Resources.resources
+C:\Users\nancy\Desktop\PROJECTS\Speech Recognition CSharp WinForm.Net\SpeechRecognition\obj\Debug\SpeechRecognition.csproj.GenerateResource.cache
+C:\Users\nancy\Desktop\PROJECTS\Speech Recognition CSharp WinForm.Net\SpeechRecognition\obj\Debug\SpeechRecognition.csproj.CoreCompileInputs.cache
+C:\Users\nancy\Desktop\PROJECTS\Speech Recognition CSharp WinForm.Net\SpeechRecognition\obj\Debug\SpeechRecognition.exe
+C:\Users\nancy\Desktop\PROJECTS\Speech Recognition CSharp WinForm.Net\SpeechRecognition\obj\Debug\SpeechRecognition.pdb
